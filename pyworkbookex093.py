@@ -2,7 +2,7 @@ from PyWorkbookEX092 import prime
 
     
 def next_prime(n):
-    '''Determine if a number is prime. if not fint the next highest prime number'''    
+    '''Determine if a number is prime. if not find the next highest prime number'''    
     prime(n)
     
     print()
